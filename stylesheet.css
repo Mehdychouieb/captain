@@ -1,0 +1,87 @@
+.banniere {
+border: 2px solid black;
+text-align: center;
+color: red;
+font-size: 80;
+font-family:Bangers;
+margin-top:100px;
+margin-bottom:100px;
+margin-left:100px;
+margin-right:100px;
+border-style:solid;
+border-radius:50px;
+background-color:black;
+
+}
+h2 { 
+text-align: center;
+font-size: 40;
+font-family:Shadows Into Light;
+color:white;
+}
+
+.captain{
+margin-left:500px;
+padding-right:500px;
+width:300px;
+height:300px;
+margin-bottom:200px;
+
+}
+
+.captain2{
+
+
+}
+body {
+background-image:url(http://acheter-trafic-visiteurs.com/wp-content/uploads/2016/01/fond-site.jpg);
+background-position:right bottom left top;
+
+
+}
+p { 
+color:white;
+}
+
+li {
+color:red;
+}
+.costume {
+height:300px;
+width:200px;
+}
+.bouclier1 {
+width:300px;
+height:250px;
+}
+.bouclier2 {
+width:300px;
+height:250px;
+}
+
+.samuel{
+width:400px;
+height:200px;
+}
+
+.crane {
+width:300px;
+height:200px;
+}
+.outro {
+color:red;
+}
+.bordure {
+border-style:outset;
+border-radius:20px;
+border-color:red;
+margin-top:5px;
+margin-bottom:5px;
+margin-left:-10px;
+margin-right:-15px;
+border-size:20px;
+}
+.james {
+width:600px;
+height:280px;
+}
